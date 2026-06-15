@@ -1,6 +1,6 @@
 # 🚀 Resume Parser AI
 
-**Live Demo:** :[Live URL](https://resume-parser-ai-65ia.onrender.com)[oaicite:0]{index=0}
+**Live Demo:** :[Visit Resume_ParserAI](https://resume-parser-ai-65ia.onrender.com)
 
 Resume Parser AI is an AI-powered recruiting assistant that helps recruiters parse resumes, analyze ATS scores, compare candidates, match resumes with job descriptions, and generate recruiter-ready hiring insights.
 

@@ -1,24 +1,28 @@
 # 🚀 Resume Parser AI
 
-Resume Parser AI is an AI-powered recruiting assistant that helps recruiters analyze resumes, calculate ATS scores, match candidates with job descriptions, generate recruiter summaries, compare candidates, and make data-driven hiring decisions.
+**Live Demo:** :[Live URL](https://resume-parser-ai-65ia.onrender.com)[oaicite:0]{index=0}
+
+Resume Parser AI is an AI-powered recruiting assistant that helps recruiters parse resumes, analyze ATS scores, compare candidates, match resumes with job descriptions, and generate recruiter-ready hiring insights.
 
 ## ✨ Features
-- Resume Parsing (PDF/DOCX)
-- ATS Score Analysis
-- Job Description Matching
-- Resume vs JD Analysis
-- Recruiter Summary
-- Hiring Verdict Engine
-- Candidate Comparison
-- Recruiter Report Generation
-- Secure Login & Authentication
-- Dark/Light Mode Support
+
+- 📄 Resume Parsing (PDF/DOCX)
+- 🎯 ATS Score Analysis
+- 🤝 Resume vs JD Matching
+- 📊 Resume vs JD Analysis
+- 👨‍💼 Recruiter Summary
+- 🏆 Hiring Verdict Engine
+- ⚖️ Candidate Comparison
+- 📑 Recruiter Reports
+- 🔐 Login & Authentication
+- 🌗 Dark/Light Mode
 
 ## 🛠️ Tech Stack
-- Frontend: React, Vite, Tailwind CSS
-- Backend: FastAPI, SQLite
-- Authentication: JWT
-- Resume Processing: PyMuPDF, python-docx
+
+**Frontend:** React, Vite, Tailwind CSS  
+**Backend:** FastAPI, SQLite  
+**Auth:** JWT Authentication  
+**Parsing:** PyMuPDF, python-docx
 
 ## 🚀 Run Locally
 
@@ -37,7 +41,8 @@ npm run dev
 ```
 
 ## 👨‍💻 Author
+
 **Tanmay Varma**
 
 📧 varmatanmay30@gmail.com  
-🔗 www.linkedin.com/in/tanmay-varma-755518397
+🔗 LinkedIn: www.linkedin.com/in/tanmay-varma-755518397

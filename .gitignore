@@ -1,0 +1,7 @@
+backend/.venv/
+backend/__pycache__/
+backend/resume_parser.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+frontend/node_modules/
+frontend/dist/
